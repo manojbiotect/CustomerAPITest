@@ -7,7 +7,6 @@ function(){
 	
 	var config = {
 		    baseUrl: url	    	
-	    	
 		  };
 	
 	return config;
